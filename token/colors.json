@@ -7,6 +7,10 @@
     "blue": {
       "value": "#00f",
       "type": "color"
+    },
+    "green": {
+      "value": "#0f0",
+      "type": "color"
     }
   },
   "$themes": [],
