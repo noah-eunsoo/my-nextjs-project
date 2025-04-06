@@ -16,11 +16,14 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Install pnpm
+        run: npm install -g pnpm # pnpm 설치
+
       - name: Install dependencies
-        run: npm ci
+        run: pnpm install # pnpm 사용하여 의존성 설치
 
       - name: Build tokens
-        run: npm run build:tokens
+        run: pnpm run build:tokens # pnpm을 사용하여 빌드
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
