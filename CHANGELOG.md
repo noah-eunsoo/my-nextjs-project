@@ -20,3 +20,11 @@
 - 이미지 경로 수정(로컬과 github build 경로를 다르게 수정)
 
 [0.1.1]: https://github.com/noah-eunsoo/my-nextjs-project/releases/tag/v0.1.1
+
+## [0.1.2] - 2025-04-07
+
+### 추가
+
+- figma 와 github 연동
+
+[0.1.2]: https://github.com/noah-eunsoo/my-nextjs-project/releases/tag/v0.1.2
