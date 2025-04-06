@@ -9,5 +9,6 @@
 - 초기 프로젝트 설정
 - Next.js 기본 페이지 구현
 - GitHub Pages 배포 설정
+- 테스트
 
 [0.1.0]: https://github.com/noah-eunsoo/my-nextjs-project/releases/tag/v0.1.0
